@@ -78,6 +78,7 @@ No secondary routes in v1.
 
 | Display name | One-liner | URL |
 |--------------|-----------|-----|
+| X Unfollower Lite | Chrome extension to safely clean your X following list — data stays on your device | https://chromewebstore.google.com/detail/x-unfollower-lite/nollihepjfhmppmjmbcommolkhjapnlp |
 | JLPT Materials | Free JLPT study materials — read online or download | https://jlpt.oasaka.xyz |
 | x402 Pay Demo | A live demo of x402 payments | https://x402.oasaka.xyz |
 | AI Context Vault | Give AI the context to actually understand you | https://vault.oasaka.xyz |
